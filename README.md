@@ -58,9 +58,9 @@ disputes, and make decisions for the community.
 
 ### Public outreach
 
-An important goal of Openscihub is to facilitate conversation between the general public and the researchers behind
-the work. A general-public Q&A system will accompany every community and
-publication. Community experts will vote up and respond to insightful and useful
+An important goal of Openscihub is to facilitate conversation between the general public 
+and the researchers behind the work. A general-public Q&A/comment system will accompany 
+every community and publication. Community experts will vote up and respond to insightful and useful
 questions from the public. These dialogues could produce efficient learning
 material for interested parties or researchers aspiring to join and contribute to the
 community.  In addition, open conversation allows people who are excluded from traditional 
@@ -68,6 +68,17 @@ scientific venues to become contributors.  The [Zooniverse](http://www.zoonivers
 has had tremendous success driven by their "Talk" feature, including seredipitous, 
 community-driven discoveries such as [light echoes](http://arxiv.org/abs/0906.5304).
 
+### Guiding principles
+
+1. Scientific knowledge continually evolves 
+2. Organic community structure can streamline relationships between ideas and evidence
+3. Scientific results should be expeditiously published 
+4. The review process should be open and ongoing 
+5. More (legitimate) reviews/reviewers increase integrity 
+6. Reviews should be open to review
+6. Even negative scientific results should be disseminated (things that didn't work)
+7. Print-based publication formats are old-school
+ 
 
 ## Background and Working Definitions
 \[need rationale for splitting hairs here\]
@@ -283,6 +294,19 @@ Some sociologists argue that scientific communities organized around a "discipli
 [(Lemaine, et al. 1976)](http://books.google.com/books/about/Perspectives_on_the_Emergence_of_Scienti.html?id=PfotstpTldoC), and that the communities relevant to the participants themselves (contributors) should be empirical and transepistemic 
 [(Knorr-Cetina 1982)](http://scholar.google.com/scholar?cluster=8069252351466314366).
 We believe that an organizational model with no restrictions on the number, size, or relationships between communities can help to foster a natural, evolving set of interrelationships.
+
+### A new publication paradigm
+
+Our vision for the research discussion process is essentially a new take on scientific publishing.
+An example scenario could be as follows:
+
+1. Researchers generate publication-quality scientific article. 
+2. Researchers upload publication and tag with relevant meta-data / associate with one or more communities (Article is fully available at this point).
+3. Potential reviewers notified based on profile settings (wish to be notified when new articles with certain tags are uploaded). 
+4. Members of community review article and post comments/suggestions/corrections. 
+5. Members of community (including authors) review the reviews.
+
+Our initial inspiration for this part of Openscihub was the StackOverflow system of up/down-voting questions/comments/answers.
 
 
 ## Relevant existing projects
