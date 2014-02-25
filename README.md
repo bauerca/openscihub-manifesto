@@ -16,6 +16,11 @@ Contributors to this document:
 
 ## Summary
 
+The idea of openscihub is to create an online framework for the formation and development 
+of scientific communities to help researchers and enthusiasts organize scientific pursuits.
+Our hope is that organic growth and development of such communities will allow open discussion, 
+transparent review, and increased connectivity between researchers.
+
 As scientific subdisciplines become more specialized, it becomes increasingly
 difficult to connect with the public and educate newcomers
 due to the accumulation of scientific jargon and concepts.
@@ -125,6 +130,7 @@ People form *communities* around scientific pursuits (or related pursuits),
 and individuals feel like
 members of a community when they make contributions or educate themselves
 [(Glaser 2001)](http://www.tasa.org.au/docs/conferences/2001_01/031201%20Glaser.pdf).
+Placing communications within a community allows participants to "know their audience" and build trust with other participants in the conversation.
 Communities serve several purposes for a scientist: 
 
 - Promote one's own work 
