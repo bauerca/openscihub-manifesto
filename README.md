@@ -16,7 +16,9 @@ Contributors to this document:
 
 ## Summary
 
-The idea of openscihub is to create an online framework for the formation and development 
+Openscihub is formal online scientific communities,
+
+Openscihub's mission is to create an online framework for the formation and development 
 of scientific communities to help researchers and enthusiasts organize scientific pursuits.
 Our hope is that organic growth and development of such communities will allow open discussion, 
 transparent review, and increased connectivity between researchers.
@@ -323,6 +325,9 @@ Here is a (growing) list of projects pursuing open science:
 - [Authorea](https://authorea.com)
 - [ResearchGate](https://researchgate.net)
 - [Academia.edu](https://academia.edu)
+- [JMLR](http://jmlr.org/)
+- [Scholastica](https://www.scholasticahq.com/)
+- [Publons](https://publons.com/)
 
 It seems like social networks of scientists (a la ResearchGate and Academia.edu)
 primarily provide a service for resume-building and networking. This is great,
@@ -333,6 +338,11 @@ The projects in the above list all provide interesting new tools for interaction
 between scientists, but seem to neglect the community aspect. It is our goal to
 determine if the online community model is something scientists want; the best
 course of action may be to join one of these efforts.
+
+A fun visualization of publishers and their journal counts:
+
+![Infographic](http://www.oii.ox.ac.uk/vis/images/?src=4e3c02ab/journal_publishers.png)
+
 
 <!--
 For example, new researchers must learn the jargon and concepts of their
