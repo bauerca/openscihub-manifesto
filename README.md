@@ -16,8 +16,6 @@ Contributors to this document:
 
 ## Summary
 
-Openscihub is formal online scientific communities,
-
 Openscihub's mission is to create an online framework for the formation and development 
 of scientific communities to help researchers and enthusiasts organize scientific pursuits.
 Our hope is that organic growth and development of such communities will allow open discussion, 
